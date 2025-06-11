@@ -1,0 +1,11 @@
+D:\Projetos\VBNET\TesteDeUnidadeCalculadora\TesteDeUnidadeCalculadora\bin\Debug\TesteDeUnidadeCalculadora.exe.config
+D:\Projetos\VBNET\TesteDeUnidadeCalculadora\TesteDeUnidadeCalculadora\bin\Debug\TesteDeUnidadeCalculadora.exe
+D:\Projetos\VBNET\TesteDeUnidadeCalculadora\TesteDeUnidadeCalculadora\bin\Debug\TesteDeUnidadeCalculadora.pdb
+D:\Projetos\VBNET\TesteDeUnidadeCalculadora\TesteDeUnidadeCalculadora\bin\Debug\TesteDeUnidadeCalculadora.xml
+D:\Projetos\VBNET\TesteDeUnidadeCalculadora\TesteDeUnidadeCalculadora\obj\Debug\TesteDeUnidadeCalculadora.vbprojAssemblyReference.cache
+D:\Projetos\VBNET\TesteDeUnidadeCalculadora\TesteDeUnidadeCalculadora\obj\Debug\TesteDeUnidadeCalculadora.Resources.resources
+D:\Projetos\VBNET\TesteDeUnidadeCalculadora\TesteDeUnidadeCalculadora\obj\Debug\TesteDeUnidadeCalculadora.vbproj.GenerateResource.cache
+D:\Projetos\VBNET\TesteDeUnidadeCalculadora\TesteDeUnidadeCalculadora\obj\Debug\TesteDeUnidadeCalculadora.vbproj.CoreCompileInputs.cache
+D:\Projetos\VBNET\TesteDeUnidadeCalculadora\TesteDeUnidadeCalculadora\obj\Debug\TesteDeUnidadeCalculadora.exe
+D:\Projetos\VBNET\TesteDeUnidadeCalculadora\TesteDeUnidadeCalculadora\obj\Debug\TesteDeUnidadeCalculadora.xml
+D:\Projetos\VBNET\TesteDeUnidadeCalculadora\TesteDeUnidadeCalculadora\obj\Debug\TesteDeUnidadeCalculadora.pdb
